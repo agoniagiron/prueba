@@ -16,4 +16,4 @@
 
 # Razonamiento
 
-_Escribir aquí los supuestos asumidos, reflexiones y explicaciones de la solución_
+Para llegar a la solucion analice primero lo que me pedian, la solucion que se me vino a la mente fue un arreglo que recorriera la cadena ingresada, pero en javascript hay una funcion llamada match() en la cual puedo obtener todas las ocurrencias de una expresión regular dentro de una cadena, asi que evito los errores si escriben dentro de los corchetes

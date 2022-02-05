@@ -4,5 +4,15 @@
  * $ node scritp.js 100
  */
 
-const args = process.argv.slice(-1);
-console.log(`Running question #1 with args ${args}`)
+ var a, b, res,N;
+ N = prompt('Ingrese cantidad:','');
+ a = 1;
+ b = 2;
+
+ for(i=2; i <=N; i++){
+     res = a + b;
+     a = b;
+     b = res;
+ console.log(res);	
+ }
+

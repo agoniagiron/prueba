@@ -22,4 +22,4 @@
 
 # Razonamiento
 
-_Escribir aquí los supuestos asumidos, reflexiones y explicaciones de la solución_
+me toco usar nodejs ya que no le encontraba solucion a javascript puro, primero el nodejs me ayudo a ver el archivo que trae el json, depues la funcion que me ayuda a poner las cantidades de los clicks y impresiones,cuando ya tenia los puntos hechos de nuevo el nodejs me ayudo para extraer la informacion y mandarla al archivo output
